@@ -1,0 +1,11 @@
+* **Gate**
+  * [主页](/)
+  * [简介](gate/gate)
+  * [协议](page/right)
+  * [日志](gate/logs)
+* **Essays**
+  * [异常](personal/wrong)
+* **Code**
+  - [高级语言程序设计](code/home_cpp)
+  - [人工智能引论](code/home_AI)
+  - [计算思维](code/com)
